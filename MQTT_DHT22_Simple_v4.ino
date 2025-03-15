@@ -1,4 +1,8 @@
-// Librerias
+// Subir a repositorio Git
+// git status
+// git add .
+// git commit -m " "
+// git push origin main
 #include <WiFi.h>
 #include <PubSubClient.h>
 #include <HTTPClient.h>
